@@ -1,4 +1,4 @@
-my test
+﻿my test
 zhen test
 this is branch master
 this is branch test
@@ -6,3 +6,4 @@ add branch dev
 ÕýÔÚdevÉÏ¹¤×÷:12345
 ¸ÄÁË¸öBUG
 ok ok this is remote branch dev 
+ok i m change it in branch dev
